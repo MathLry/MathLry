@@ -1,7 +1,7 @@
 <?php
 
 $firstStr = "" ;
-$firstEscapeStr = "_";
+$firstEscapeStr = "\n";
 $firstBool = true;
 $firstInteger = 2;
 $firstFloat = 2.1;
