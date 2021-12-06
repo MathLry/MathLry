@@ -1,5 +1,4 @@
 <?php
-
 $firstStr = "" ;
 $firstEscapeStr = "\n";
 $firstBool = true;
