@@ -1,8 +1,7 @@
 <?php
-    $table = 9;
     $length = 10;
     $i = 1;    
     while($i <= $length) {
-     echo "$i * $table = ".$i * $table. "\n";
+     echo "$i * 9 = " . $i * 9 . "\n";
      $i++;}
 ?>
