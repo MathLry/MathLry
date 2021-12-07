@@ -1,17 +1,15 @@
 <?php
 
-    $nbrRicard = 0;
+    $nbrRicard = 1;
     
     do {
-        $nbrRicard++;
+        echo "Come on ricard number $nbrRicard \n";
         if ($nbrRicard == 3) {
             echo "I'll have to stop soon!\n";
-            continue;
         }
 
         if ($nbrRicard == 5) {
             echo "I am no longer very fresh ...\n";
-            continue;
         }
-    } while ($nbrRicard<7);
+    } while ($nbrRicard++<7);
 ?>
