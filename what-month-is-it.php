@@ -1,48 +1,52 @@
 <?php
     $month = 12;
-    switch ($month = 1) {
-        case "$month = January":
-        echo "We are in the month of " . $month;
+    switch ($month) {
+        case '1':
+        echo "We are in the month of January";
         break;
 
-        case "$month = February":
-        echo "We are in the month of " . $month;
+        case '2':
+        echo "We are in the month of February";
         break;
         
-        case "$month = Mars":
-        echo "We are in the month of " . $month;
+        case '3':
+        echo "We are in the month of Mars";
         break;
         
-        case "$month = April":
-        echo "We are in the month of " . $month;
+        case '4':
+            echo "We are in the month of April";
+        break;
+
+        case '5':
+        echo "We are in the month of May";
         break;
         
-        case "$month = May":
-        echo "We are in the month of " . $month;
+        case '6':
+        echo "We are in the month of June";
         break;
         
-        case "$month = June":
-        echo "We are in the month of " . $month;
+        case '7':
+        echo "We are in the month of July";
         break;
         
-        case "$month = July":
-        echo "We are in the month of " . $month;
+        case '8':
+        echo "We are in the month of August";
         break;
         
-        case "$month = August":
-        echo "We are in the month of " . $month;
+        case '9':
+        echo "We are in the month of September";
         break;
         
-        case "$month = September":
-        echo "We are in the month of " . $month;
+        case '10':
+        echo "We are in the month of October";
         break;
         
-        case "$month = November":
-        echo "We are in the month of " . $month;
+        case '11':
+        echo "We are in the month of November";
         break;
         
-        case "$month = January":
-        echo "We are in the month of " . $month;
+        case '12':
+        echo "We are in the month of December";
         break;
     }
 ?>
