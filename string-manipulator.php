@@ -1,36 +1,36 @@
 <?php
 
-    $sentence = "help plzz";
+    $phrase = "help plzz";
 
-    function capsMe($sentence): string
+    function capsMe($phrase): string
     {
-        return strtoupper($sentence);
+        return strtoupper($phrase);
     }
 
-    function lowerMe($sentence): string
+    function lowerMe($phrase): string
     {
-        return strtolower($sentence) ;
+        return strtolower($phrase) ;
     }
 
-    function upperCaseFirst($sentence): string
+    function upperCaseFirst($phrase): string
     {
-        return ucwords($sentence) ;
+        return ucwords($phrase) ;
     }
 
-    function lowerCaseFirst($sentence): string
+    function lowerCaseFirst($phrase): string
     {
         $result = '';
-        $test = explode(' ', $sentence);
+        $test = explode(' ', $phrase);
         foreach ($test as $i) {
             $i =' '.lcfirst($i);
             $result.= $i;
         }
-        return ltrim($result);return ($sentence) ;
+        return ltrim($result);return ($phrase) ;
     }
 
-    function removeBlankSpace($sentence): string
+    function removeBlankSpace($phrase): string
     {
-        return str_replace(' ', '', $sentence);
+        return trim($phrase);
     }
 
 ?>
