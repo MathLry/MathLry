@@ -1,27 +1,27 @@
 <?php
 
-    function capsMe($string): string
+    function capsMe($sentence): string
     {
-        return strtoupper($string);
+        return strtoupper($sentence);
     }
 
-    function lowerMe($string): string
+    function lowerMe($sentence): string
     {
-        return strtolower($string) ;
+        return strtolower($sentence) ;
     }
 
-    function upperCaseFirst($string): string
+    function upperCaseFirst($sentence): string
     {
-        return ucfirst($string) ;
+        return ucfirst($sentence) ;
     }
 
-    function lowerCaseFirst($string): string
+    function lowerCaseFirst($sentence): string
     {
-        return lcfirst($string) ;
+        return lcfirst($sentence) ;
     }
 
-    function removeBlankSpace($string): string
+    function removeBlankSpace($sentence): string
     {
-        return str_replace(' ', '', $string);
+        return str_replace(' ', '', $sentence);
     }
 ?>
