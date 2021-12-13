@@ -1,6 +1,6 @@
 <?php
 
-    $name = "string";
+    //$name = "The Name";
 
     function sayHello()
     {
