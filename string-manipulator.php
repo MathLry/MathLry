@@ -2,26 +2,26 @@
 
     function capsMe($sentence): string
     {
-        return strtoupper($sentence);
+        return $sentence = strtoupper($sentence);
     }
 
     function lowerMe($sentence): string
     {
-        return strtolower($sentence) ;
+        return $sentence = strtolower($sentence) ;
     }
 
     function upperCaseFirst($sentence): string
     {
-        return ucfirst($sentence) ;
+        return $sentence = ucfirst($sentence) ;
     }
 
     function lowerCaseFirst($sentence): string
     {
-        return lcfirst($sentence) ;
+        return $sentence = lcfirst($sentence) ;
     }
 
     function removeBlankSpace($sentence): string
     {
-        return str_replace(' ', '', $sentence);
+        return $sentence = str_replace(' ', '', $sentence);
     }
 ?>
