@@ -1,7 +1,5 @@
 <?php
 
-    //$name = "The Name";
-
     function sayHello()
     {
         return "Hello" ;
