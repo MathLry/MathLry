@@ -7,7 +7,7 @@
         return "Hello" ;
     }
 
-    function sayHelloTo($name)
+    function sayHelloTo(string $name)
     {
         return "Hello $name" ;
     }
