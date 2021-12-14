@@ -2,15 +2,11 @@
 
     function isPangram($isPangram): bool
     {
-        $sentences = strtolower(trim($isPangram));
         $letters = range('a', 'z');
-        
         foreach ($letters as $letter) {
-			if (!strstr($sentences, $letter))
+			if (!strstr($isPangram, $letter))
 				return false;
 		}
-
         return true;
     }
-
 ?>
