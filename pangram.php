@@ -1,12 +1,23 @@
 <?php
 
-    function isPangram($isPangram): bool
+    function isPangram(string $test): bool
     {
-        $letters = range('a', 'z');
-        foreach ($letters as $letter) {
-			if (!strstr($isPangram, $letter))
-				return false;
-		}
-        return true;
+        $alphabet = range('a', 'z');
+        $array = str_split($test);
+        foreach ($array as $char) {
+            if (ctype_alpha($char)) {
+                if (ctype_upper($char)) {
+                    $char = strtolower($char);
+                }
+                $key = array_search($char, $alphabet);
+                if ($key !== false) {
+                    unset($alphabet[$key]);
+                }
+            }
+        }
+        if (!$alphabet) {
+            $isPangram = true;
+        }
+        return $isPangram;
     }
 ?>
