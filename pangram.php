@@ -2,12 +2,15 @@
 
     function isPangram($isPangram): bool
     {
-        $alphabet = range('a', 'z');
-        if (preg_grep($isPangram, $alphabet)){
-            
-        }
+        $sentences = strtolower(trim($isPangram));
+        $letters = range('a', 'z');
+        
+        foreach ($letters as $letter) {
+			if (!strstr($sentences, $letter))
+				return false;
+		}
 
-        return strtoupper($isPangram);
+        return true;
     }
 
 ?>
