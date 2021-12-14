@@ -1,7 +1,5 @@
 <?php
 
-    $phrase = "help plzz";
-
     function capsMe($phrase): string
     {
         return strtoupper($phrase);
