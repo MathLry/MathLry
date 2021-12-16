@@ -13,8 +13,8 @@
             {
                 $array_push = array_push($array_push, $mot);
             }
-            return $array_push;
         }
+        return $array_push;
     }
 
     function sum(array $array_sum): int
