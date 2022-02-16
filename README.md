@@ -20,22 +20,10 @@
 
 ---
 
-## Projets
+## Mes projets GitHub
 
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
 
 [![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
 [![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
-
-<details>
-  <summary>:zap: Mes projets GitHub</summary>
-  
-<!--START_SECTION:activity-->
-1. tips : [MathLry/tips](https://github.com/MathLry/tips)
-2. BDD-Film : [MathLry/BDD_Film](https://github.com/MathLry/BDD_Film)
-3. starter-pack : [MathLry/starter-pack](https://github.com/MathLry/starter-pack)
-
-<!--END_SECTION:activity-->
-
-</details>
