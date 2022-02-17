@@ -2,24 +2,26 @@
 
 ## Les langages et outils que j'utilise:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="php" width="26px" src="https://e7.pngegg.com/pngimages/184/491/png-clipart-php-php.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" />
-<img align="left" alt="C#" width="26px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="SQLite" width="26px" src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo-thumbnail.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="API" width="50px" src="https://drive.google.com/uc?export=view&id=1eAeu-AXNwPy7OMyfZTQVlu4mMtAsnV5T" />
+<img align="left" alt="HTML" width="50px" src="https://drive.google.com/uc?export=view&id=1_J1ZPW2CkV1zacvyuTcgKIkaBAM5Rqvx" />
+<img align="left" alt="CSS" width="50px" src="https://drive.google.com/uc?export=view&id=1f7TctYhRTJ0sIhA63HG24LXYuNHqoNSE" />
+<img align="left" alt="PHP" width="50px" src="https://drive.google.com/uc?export=view&id=1lquqRV6IsA68zkFNCSMz24LQZnokdfJF" />
+<img align="left" alt="JavaScript" width="50px" src="https://drive.google.com/uc?export=view&id=1o7EBbxAzG9RDxdDpFqUzF93DNpCShqTJ" />
+<img align="left" alt="XML" width="50px" src="https://drive.google.com/uc?export=view&id=1QtUO4RUTpnP1f5P2P56O7HbLAIQm4fvN" />
+<img align="left" alt="Java" width="50px" src="https://drive.google.com/uc?export=view&id=1cWa-5mKvMOEMJM-oukjhipTDI4kN3tca" />
+<img align="left" alt="C" width="50px" src="https://drive.google.com/uc?export=view&id=1psdzgbVh2uK1F8wRgoXWEtmmmC07A5Fy" />
+<img align="left" alt="C++" width="50px" src="https://drive.google.com/uc?export=view&id=1O91x5k1h8eVffrom01_4j4CTJqa4LmRS" />
+<img align="left" alt="C#" width="50px" src="https://drive.google.com/uc?export=view&id=1_JgVCUPUTyO6KR8tgSUpTmqQoZYrRodI" />
+<img align="left" alt="SQL" width="50px" src="https://drive.google.com/uc?export=view&id=1hKPj4ZwmR0UxWrCFcJGjcPE5Q_R9AdU6" />
+<img align="left" alt="MySQL" width="50px" src="https://drive.google.com/uc?export=view&id=15xLIO2x57JEv_Y9WKw177tKrmkrsnvhA" />
+<img align="left" alt="Git" width="50px" src="https://drive.google.com/uc?export=view&id=110tWurrZgB2v1tprD6iNZadWm9oO0qcU" />
+<img align="left" alt="GitHub" width="50px" src="https://drive.google.com/uc?export=view&id=1-X0ppMgyPNkeuT4YuQPERq55zDM4H4om" />
 
-<br />
-<br />
+<br/>
+<br/>
 
 ## Mes projets GitHub
 
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)  
+[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)  
 [![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)  
 [![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
