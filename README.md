@@ -18,8 +18,7 @@
 <img align="left" alt="GitHub" width="35px" src="https://drive.google.com/uc?export=view&id=1dAheSt3TGDVwuvbbDEiet1Twif0yVy4M" />  
 <img align="left" alt="VSCode" width="35px" src="https://drive.google.com/uc?export=view&id=12pBBtodS4VD5enLa0EVQVuwkqrYod3Al" />  
 
-<br /><br /><br /><br />
-
+<br /><br />
 ---
 
 ## Mes projets GitHub
