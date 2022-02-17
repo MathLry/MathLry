@@ -2,21 +2,21 @@
 
 ## Les langages et outils que j'utilise:
 
-<img align="left" alt="API" width="45px" src="https://drive.google.com/uc?export=view&id=1eAeu-AXNwPy7OMyfZTQVlu4mMtAsnV5T" />
-<img align="left" alt="HTML" width="45px" src="https://drive.google.com/uc?export=view&id=1_J1ZPW2CkV1zacvyuTcgKIkaBAM5Rqvx" />
-<img align="left" alt="CSS" width="45px" src="https://drive.google.com/uc?export=view&id=1f7TctYhRTJ0sIhA63HG24LXYuNHqoNSE" />
-<img align="left" alt="PHP" width="45px" src="https://drive.google.com/uc?export=view&id=1lquqRV6IsA68zkFNCSMz24LQZnokdfJF" />
-<img align="left" alt="JavaScript" width="45px" src="https://drive.google.com/uc?export=view&id=1o7EBbxAzG9RDxdDpFqUzF93DNpCShqTJ" />
-<img align="left" alt="XML" width="45px" src="https://drive.google.com/uc?export=view&id=1QtUO4RUTpnP1f5P2P56O7HbLAIQm4fvN" />
-<img align="left" alt="Java" width="45px" src="https://drive.google.com/uc?export=view&id=1cWa-5mKvMOEMJM-oukjhipTDI4kN3tca" />
-<img align="left" alt="C" width="45px" src="https://drive.google.com/uc?export=view&id=1psdzgbVh2uK1F8wRgoXWEtmmmC07A5Fy" />
-<img align="left" alt="C++" width="45px" src="https://drive.google.com/uc?export=view&id=1O91x5k1h8eVffrom01_4j4CTJqa4LmRS" />
-<img align="left" alt="C#" width="45px" src="https://drive.google.com/uc?export=view&id=1_JgVCUPUTyO6KR8tgSUpTmqQoZYrRodI" />
-<img align="left" alt="SQL" width="45px" src="https://drive.google.com/uc?export=view&id=1hKPj4ZwmR0UxWrCFcJGjcPE5Q_R9AdU6" />
-<img align="left" alt="MySQL" width="45px" src="https://drive.google.com/uc?export=view&id=15xLIO2x57JEv_Y9WKw177tKrmkrsnvhA" />
-<img align="left" alt="Git" width="45px" src="https://drive.google.com/uc?export=view&id=110tWurrZgB2v1tprD6iNZadWm9oO0qcU" />
-<img align="left" alt="GitHub" width="45px" src="https://drive.google.com/uc?export=view&id=1-X0ppMgyPNkeuT4YuQPERq55zDM4H4om" />
-<img align="left" alt="VSCode" width="40px" src="https://drive.google.com/uc?export=view&id=16apCuF7uh8YKrWSnDX9PU_cT5cE9Oe-M" />
+<img align="left" alt="API" width="45px" src="https://drive.google.com/uc?export=view&id=1vwKwsq4CATtXilI7yy6PTUOmLzB4Bavn" />
+<img align="left" alt="HTML" width="45px" src="https://drive.google.com/uc?export=view&id=1RJKsn0xec0t5Sh-JNRSscr_stUUUYYo0" />
+<img align="left" alt="CSS" width="45px" src="https://drive.google.com/uc?export=view&id=1VutK1aWA9j7k6u05xJpdsexxhFvrhg9_" />
+<img align="left" alt="PHP" width="45px" src="https://drive.google.com/uc?export=view&id=1M-G8sFv-UnwJL7gLQkHXHmcJndfcrW84" />
+<img align="left" alt="JavaScript" width="45px" src="https://drive.google.com/uc?export=view&id=1FvPDYbpx7iM7JYVW0ZR_ozgl5m4vH4dh" />
+<img align="left" alt="XML" width="45px" src="https://drive.google.com/uc?export=view&id=1ZAXzO4LM5RieRBYRV9aCeSexwycN1aBS" />
+<img align="left" alt="Java" width="45px" src="https://drive.google.com/uc?export=view&id=1rsmXO4VTl3t3OkMrr9giIb2TeXak-a_b" />
+<img align="left" alt="C" width="45px" src="https://drive.google.com/uc?export=view&id=1pKtUGUPotaCL873uXlnfkWDSFIeOYDgb" />
+<img align="left" alt="C++" width="45px" src="https://drive.google.com/uc?export=view&id=1fKIf_0tcK41qVfOv_tuuRx_V3hKPwMXE" />
+<img align="left" alt="C#" width="45px" src="https://drive.google.com/uc?export=view&id=1-AOVwYbW8lGmRn9Oj7mzg-M6JyvAWIse" />
+<img align="left" alt="SQL" width="45px" src="https://drive.google.com/uc?export=view&id=1NNTaedJo3UnXGNeraO6RbZH0-ozGTc7u" />
+<img align="left" alt="MySQL" width="45px" src="https://drive.google.com/uc?export=view&id=1bTYSBSXe9sSygx_2R_CMOIk5tyW48zWi" />
+<img align="left" alt="Git" width="45px" src="https://drive.google.com/uc?export=view&id=1WG8ZXpXOo3su-hmUU9weXHhBCaHB3W77" />
+<img align="left" alt="GitHub" width="45px" src="https://drive.google.com/uc?export=view&id=1dAheSt3TGDVwuvbbDEiet1Twif0yVy4M" />
+<img align="left" alt="VSCode" width="40px" src="https://drive.google.com/uc?export=view&id=12pBBtodS4VD5enLa0EVQVuwkqrYod3Al" />
 
 <br /><br /><br /><br />
 
