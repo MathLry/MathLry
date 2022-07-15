@@ -21,7 +21,5 @@
 <br /><br />
 ---
 
-## Mes projets GitHub
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)  
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)  
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome)
+## Mon site web
+[![Mon blog](https://github-readme-stats.vercel.app/api/pin/?username=mathlry&repo=mathlry.github.io&show_owner=true)](https://github.com/MathLry/MathLry.github.io)
